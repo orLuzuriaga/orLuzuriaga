@@ -30,11 +30,3 @@ Architecture** at the Universitat Politècnica de Catalunya (UPC).
 - **Testing:** JUnit, Mockito, Testcontainers, TDD
 - **Frontend:** Angular, Vaadin, HTML/CSS
 
-## 💼 Experience
-
-Years building RESTful APIs, complex integrations and distributed systems in agile
-teams (Scrum/Kanban), with a focus on long-term maintainable software.
-
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/renatoluzuriaga/) · [or2ll@duck.com](mailto:or2ll@duck.com)
