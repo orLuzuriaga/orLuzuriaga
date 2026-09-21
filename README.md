@@ -1,6 +1,6 @@
 # Hi, I'm Renato Luzuriaga 👋
 
-Backend engineer turned **cloud architect**. I build maintainable, distributed systems
+Software Engineer turned **cloud architect**. I build maintainable, distributed systems
 and I'm currently deepening my skills with a **Postgraduate degree in Cloud Computing
 Architecture** at the Universitat Politècnica de Catalunya (UPC).
 
